@@ -176,10 +176,4 @@ By the end of this plan, you will have:
 - Hands-on mastery of Spark, Hive, Hadoop, scheduling, and optimization  
 
 ---
-
-If you want, I can also turn this into:
-- A **PDF**  
-- A **GitHub-ready README**  
-- A **step-by-step daily task plan**  
-
-Just tell me!  
+ 
